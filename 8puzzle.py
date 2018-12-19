@@ -137,5 +137,5 @@ if __name__ == "__main__":
 				val+=1
 	map[' ']=(2,2)
 
-	initial_grid = [ [1,2,3], [4,2,5],[7,8,6]]
+	initial_grid = [ [1,2,3], [4,' ',5],[7,8,6]]
 	solver(initial_grid)
