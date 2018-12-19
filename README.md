@@ -1,7 +1,7 @@
 # 8puzzle
 AI 8 puzzle problem using A* search
 
-With initial state move the blank tile to reach the goal state
+Given the Initial state, Move the blank tile to reach the Goal state
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGa05rEoHYPQ_K0ZAqjhcbyt3HiJOEaBtGiq6YsxmjDN-gAUv">
 
